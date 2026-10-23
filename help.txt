@@ -1,5 +1,1 @@
-Menu Program Instructions
-1. Select option 1 to greet a user.
-2. Select option 2 to add two integers.
-3. Select option 3 to check even or odd.
-4. Select option 4 to exit.
+Git collaboration instructions
